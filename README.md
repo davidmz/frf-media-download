@@ -11,3 +11,5 @@ This tool downloads all the files you have uploaded to FreeFeed.
 3. Run the `frf-media-download` in console/terminal.
 
 The files will be downloaded to the "./results" folder.
+
+After a period of time you can run the program again to download the new files. Files that have already been downloaded will not be downloaded again.
